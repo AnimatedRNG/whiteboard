@@ -5,3 +5,5 @@ A simple SWT client-server whiteboard application. Requires the assets directory
 Because of swtjar's limitations, the build process is slightly complicated. First run `ant`, and then `ant build-jars`. The built jars are in `build/jars`. On OS X, the application must be run with `java -jar -XstartOnFirstThread WhiteboardClient_OSX.jar`.
 
 The default port is 54668; remember to open that port for TCP traffic on your server.
+
+![](http://i.imgur.com/OR0MEfd.png)
