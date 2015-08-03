@@ -1,6 +1,6 @@
 /bin/
 /build/
-/assets/logs/
+/assets/logs/*
 /.project
 /.settings/
 
