@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/|assets/|lib/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/kryonet-2.21-all.jar" sourcepath="/home/srinivas/Programming/Whiteboard/kryonet-kryonet-2.21"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/home/srinivas/Programming/Whiteboard/swt/jar-in-jar-loader.zip"/>
+	<classpathentry kind="lib" path="lib/swt/swt-linux64-4.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/com.ibm.icu_52.1.1.v201501240615.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.core.commands_3.6.100.v20140528-1422.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.core.runtime_3.10.0.v20140318-2214.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.equinox.registry_3.5.400.v20140428-1507.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.jface_3.10.2.v20141021-1035.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.jface.text_3.9.2.v20141003-1326.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.osgi_3.10.2.v20150203-1939.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.text_3.5.300.v20130515-1451.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.ui.forms_3.6.100.v20140422-1825.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse/org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
